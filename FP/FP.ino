@@ -4,8 +4,8 @@
 #include "data.h"
 
 // Nombre de la red WiFi y su contraseña.
-const char *ssid = "CLARO_WIFIB00";
-const char *password = "CLAROIB00";
+const char *ssid = "NOMBRE_WIFI";
+const char *password = "CLAVE_WIFI";
 
 // Definición de pines para los sensores y los LEDs.
 int fotoceldaPin = 33;
