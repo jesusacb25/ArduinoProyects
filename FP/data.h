@@ -83,12 +83,12 @@ const char index_html[] PROGMEM = R"rawliteral(
     <div class="main">
       <div class="container">
         <img
-          src="https://github.com/jesusacb25/PAGINA_WEB/blob/main/img/screen.png"
+          src="https://raw.githubusercontent.com/jesusacb25/ArduinoProyects/e196b10570348917d09626a6d1eac50df73e315a/FP/img/state.svg"
           alt="Rading Book"
           class="image1"
         />
         <img
-          src="https://github.com/jesusacb25/PAGINA_WEB/blob/main/img/screen.png"
+          src="https://raw.githubusercontent.com/jesusacb25/ArduinoProyects/e196b10570348917d09626a6d1eac50df73e315a/FP/img/Luz.svg"
           alt="luz de lampara"
           class="image2"
         />
