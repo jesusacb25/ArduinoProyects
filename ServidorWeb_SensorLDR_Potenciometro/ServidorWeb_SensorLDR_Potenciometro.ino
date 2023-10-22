@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char *ssid = "CLARO_WIFIB00";
-const char *password = "CLAROIB00";
+const char *ssid = "NOMBRE_RED_WIFI";
+const char *password = "CLAVE_WIFI";
 
 int fotoceldaPin = 33; // Pin de la fotocelda (cambiar al pin correcto)
 int potenciometroPin = 34; // Pin del potenciómetro (cambiar al pin correcto)
